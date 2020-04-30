@@ -23,6 +23,7 @@
     <ProjectGuid>{02C6B61F-8721-4206-BF38-748C86A16911}</ProjectGuid>
     <RootNamespace>Corewar</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>VM</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
